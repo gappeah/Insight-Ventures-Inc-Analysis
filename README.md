@@ -112,7 +112,3 @@ Data was visualized using various charts (line graphs, pie charts, stacked area 
 
 ## Conclusion
 From 2013 to 2014, Paseo was the top-performing product in terms of profitability, particularly in Canada, while Velo outperformed Paseo in Germany. VTT and Amarilla also showed strong profitability across different regions, highlighting significant variations in product performance and market preferences critical for strategic planning and operational improvements.
-
----
-
-This readme file provides a structured overview of the financial analysis report, summarizing key points and strategic recommendations for Insight Ventures Inc.
